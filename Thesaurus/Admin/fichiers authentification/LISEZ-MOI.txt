@@ -1,0 +1,10 @@
+Pour ajouter l'obligation d'authentification des administrateurs lors de l'acces ра l'interface admin il faut :
+
+
+1- Renommer htaccess en .htaccess
+
+
+2- Renommer htpasswd en .htpasswd
+
+
+3- Copier ces deux fichiers dans le dossier parent, c'est a dire le dossier Admin

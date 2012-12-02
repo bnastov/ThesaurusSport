@@ -1,0 +1,4 @@
+AuthName "Acces page d'administration"
+AuthType Basic
+AuthUserFile "/opt/lampp/htdocs/Thesaurus/Admin/.htpasswd"
+Require valid-user

@@ -1,0 +1,103 @@
+/* ------------- CSS ancien affichage -------------- */
+.tableGlobale
+{
+	width 		:	100%;
+	height 		:	100%;
+	margin-top	:	100px;
+}
+
+.TermeGenerique
+{
+	text-align	: 	center;
+	border		: 	#FF0000 2px solid;
+	width 		: 	34%;
+	height		:	100%
+}
+.TermeSpecifique
+{
+	text-align	: 	center;
+	border		: 	#0000FF 2px solid;
+	width 		: 	34%;
+	height		:	100%
+}
+.Terme
+{
+	text-align	: 	center;
+	width		:	100%;
+	height		:	100%;
+	border		: 	#00FF00 2px solid;
+}
+.TermeAssociee
+{
+	text-align	: 	center;
+	width		:	100%;
+	height		:	100%;
+	border		: 	#FF0000 2px solid;
+}
+
+.Concept
+{
+	text-align	: 	center;
+	width		:	100%;
+	height		:	100%;
+	border		: 	#0F0F0F 2px solid;
+}
+
+/* ------------------ CSS Nouvel affichage ----------------- */
+
+#general
+{
+	width 		:	100%;
+	height 		:	100%;
+	margin-top	:	10px;
+	margin-bottom : 50px;
+}
+
+#terme
+{
+	width : 40%;
+	height : 70%;
+	margin-left : 29.4%;
+}
+
+#concept
+{
+	width : 33%;
+	height : 70%;
+	margin-left : 33%;
+}
+
+#termeG
+{
+	width : 33%;
+	height : 70%;
+	margin-left : 33%;
+}
+
+#termeA
+{
+	width : 33%;
+	height : 70%;
+	float : left;	
+}
+
+#termeS
+{
+	width : 33%;
+	height : 70%;
+	float : left;
+}
+
+#termeAS
+{
+	width : 100%;
+	margin-left : 14%;
+}
+
+
+#legend
+{
+	font-style : italic;
+	font-size : 14px;
+}
+
